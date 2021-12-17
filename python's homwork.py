@@ -326,8 +326,8 @@ class MainUi(QtWidgets.QMainWindow, QDialog):
         self.left_button_5.clicked.connect(self.my_collects)
         self.left_button_6.clicked.connect(self.change_account)
         self.left_button_7.clicked.connect(lambda: webbrowser.open('https://blog.csdn.net/qq_25046827'))
-        self.left_button_8.clicked.connect(lambda: webbrowser.open('http://blog.ken-chy129.cn/'))
-        self.left_button_9.clicked.connect(lambda: webbrowser.open('http://www.ken-chy129.cn/'))
+        self.left_button_8.clicked.connect(lambda: webbrowser.open('https://blog.csdn.net/qq_25046827'))
+        self.left_button_9.clicked.connect(lambda: webbrowser.open('https://blog.csdn.net/qq_25046827'))
         self.right_bar_widget_search_input.returnPressed.connect(
             lambda: self.search(self.right_bar_widget_search_input.text()))
         self.search_result_button_1.clicked.connect(lambda: self.play_music(0))
