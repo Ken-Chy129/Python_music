@@ -38,7 +38,7 @@ python版本：Python3.9
 
 > 代码说明
 
-具体代码功能与实现可以前往https://ken-chy129.blog.csdn.net/article/details/121876876进行查看
+具体代码功能与实现可以前往[我的博客](https://blog.csdn.net/qq_25046827/article/details/121829094)进行查看
 
 > 软件说明
 
